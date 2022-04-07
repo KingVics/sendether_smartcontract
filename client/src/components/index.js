@@ -1,0 +1,5 @@
+export { default as Navbar} from "./Navbar"
+export { default as Services} from "./Services"
+export { default as Welcome} from "./Welcome.jsx"
+export { default as Transaction} from "./Transaction.jsx"
+export { default as Footer} from "./Footer"
